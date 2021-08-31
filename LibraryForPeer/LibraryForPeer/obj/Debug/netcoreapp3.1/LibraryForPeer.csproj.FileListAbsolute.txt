@@ -1,0 +1,18 @@
+C:\Users\pasha\source\repos\LibraryForPeer\LibraryForPeer\bin\Debug\netcoreapp3.1\LibraryForPeer.deps.json
+C:\Users\pasha\source\repos\LibraryForPeer\LibraryForPeer\bin\Debug\netcoreapp3.1\LibraryForPeer.dll
+C:\Users\pasha\source\repos\LibraryForPeer\LibraryForPeer\bin\Debug\netcoreapp3.1\LibraryForPeer.pdb
+C:\Users\pasha\source\repos\LibraryForPeer\LibraryForPeer\obj\Debug\netcoreapp3.1\LibraryForPeer.AssemblyInfoInputs.cache
+C:\Users\pasha\source\repos\LibraryForPeer\LibraryForPeer\obj\Debug\netcoreapp3.1\LibraryForPeer.AssemblyInfo.cs
+C:\Users\pasha\source\repos\LibraryForPeer\LibraryForPeer\obj\Debug\netcoreapp3.1\LibraryForPeer.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\LibraryForPeer\LibraryForPeer\obj\Debug\netcoreapp3.1\LibraryForPeer.dll
+C:\Users\pasha\source\repos\LibraryForPeer\LibraryForPeer\obj\Debug\netcoreapp3.1\LibraryForPeer.pdb
+C:\Users\pasha\source\repos\LibraryForPeer\LibraryForPeer\obj\Debug\netcoreapp3.1\LibraryForPeer.csprojAssemblyReference.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\LibraryForPeer\LibraryForPeer\bin\Debug\netcoreapp3.1\LibraryForPeer.deps.json
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\LibraryForPeer\LibraryForPeer\bin\Debug\netcoreapp3.1\LibraryForPeer.dll
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\LibraryForPeer\LibraryForPeer\bin\Debug\netcoreapp3.1\LibraryForPeer.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\LibraryForPeer\LibraryForPeer\obj\Debug\netcoreapp3.1\LibraryForPeer.csprojAssemblyReference.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\LibraryForPeer\LibraryForPeer\obj\Debug\netcoreapp3.1\LibraryForPeer.AssemblyInfoInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\LibraryForPeer\LibraryForPeer\obj\Debug\netcoreapp3.1\LibraryForPeer.AssemblyInfo.cs
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\LibraryForPeer\LibraryForPeer\obj\Debug\netcoreapp3.1\LibraryForPeer.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\LibraryForPeer\LibraryForPeer\obj\Debug\netcoreapp3.1\LibraryForPeer.dll
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\LibraryForPeer\LibraryForPeer\obj\Debug\netcoreapp3.1\LibraryForPeer.pdb
