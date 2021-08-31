@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JustDoItApp/1.0.0": {
+        "dependencies": {
+          "LibraryForPeer": "1.0.0"
+        },
+        "runtime": {
+          "JustDoItApp.dll": {}
+        }
+      },
+      "LibraryForPeer/1.0.0": {
+        "runtime": {
+          "LibraryForPeer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JustDoItApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryForPeer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,48 @@
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.exe
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.deps.json
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.runtimeconfig.json
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.runtimeconfig.dev.json
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.dll
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.pdb
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\LibraryForPeer.dll
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\LibraryForPeer.pdb
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.csprojAssemblyReference.cache
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.AssemblyInfoInputs.cache
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.AssemblyInfo.cs
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.csproj.CopyComplete
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.dll
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.pdb
+C:\Users\pasha\source\repos\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.genruntimeconfig.cache
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.exe
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.deps.json
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.runtimeconfig.json
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.runtimeconfig.dev.json
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.dll
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\LibraryForPeer.dll
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\LibraryForPeer.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.csprojAssemblyReference.cache
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.AssemblyInfoInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.AssemblyInfo.cs
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.csproj.CopyComplete
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.dll
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.genruntimeconfig.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.exe
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.deps.json
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.runtimeconfig.json
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.runtimeconfig.dev.json
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.dll
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\JustDoItApp.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\LibraryForPeer.dll
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\bin\Debug\netcoreapp3.1\LibraryForPeer.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.csprojAssemblyReference.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.AssemblyInfoInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.AssemblyInfo.cs
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.csproj.CopyComplete
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.dll
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\прога чет\JustDoItApp\JustDoItApp\obj\Debug\netcoreapp3.1\JustDoItApp.genruntimeconfig.cache
